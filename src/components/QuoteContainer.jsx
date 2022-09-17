@@ -24,7 +24,7 @@ const QuoteContainer = () => {
   };
 
   return (
-    <main className="Contain" style={backgroundObject}>
+    <main className="contain" style={backgroundObject}>
       <QuoteBox
         ramdomQuote={ramdomQuote}
         ramdomColor={ramdomColor}

@@ -48,10 +48,12 @@ h1 {
 }
 
 .card__marks {
-  font-size: 60px;
+  font-size: 50px;
+  display: flex;
+  justify-content: center;
 }
 
-.Contain {
+.contain {
   height: 100%;
   width: 100%;
   display: flex;
